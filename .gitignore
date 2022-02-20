@@ -1,2 +1,9 @@
+*.aux
 *.blend1
+*.fdb_latexmk
+*.fls
+*.log
+*.out
 *.painter_lock
+*.synctex*
+*.toc
