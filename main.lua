@@ -1,3 +1,7 @@
+function lovr.load()
+    suzanne = lovr.graphics.newModel("assets/gltf/suzanne.gltf")
+end
+
 function lovr.draw()
-    lovr.graphics.print('hello world', 0, 1.7, -3, 0.5)
+    suzanne:draw(0, 0, -3, 1, lovr.timer.getTime())
 end
