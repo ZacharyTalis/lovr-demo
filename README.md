@@ -1,3 +1,3 @@
 # lovr-demo
 
-Demo of basic LOVR functionality for Interactive Music Experiences
+Demo of basic LÖVR functionality for Interactive Music Experiences
