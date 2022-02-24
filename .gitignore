@@ -7,3 +7,4 @@
 *.painter_lock
 *.synctex*
 *.toc
+.vscode
